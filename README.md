@@ -6,8 +6,9 @@ You are the Junior Information Security Analyst for SmartMeter Co, the Head of I
 
 You are part of the incident response team that will be investigating the incident. Your colleagues have commenced the investigation process. The Head of IT has tasked you with reviewing the information gathered so far and with completing the incident report outlining the contributing causes of the attack. Below provided the artifacts to aid in the creation of the report:
 
+## Artifacts
 
-**Screenshot of Phishing Email**
+1. **Screenshot of Phishing Email**
 
 
 
@@ -20,7 +21,7 @@ You are part of the incident response team that will be investigating the incide
 
 
 
-**Screenshot of Network Diagram**
+2. **Screenshot of Network Diagram**
 
 
 
@@ -31,15 +32,15 @@ You are part of the incident response team that will be investigating the incide
 
 
 
-[**System Inventory File**](./SystemInventory.pdf)
+3. [**System Inventory File**](./SystemInventory.pdf)
 
 
 
-[**System Log File**](./System_Logs.pdf)
+4. [**System Log File**](./System_Logs.pdf)
 
 
 
-[**Employee Interviews**](./Employee_Interviews.pdf)
+5. [**Employee Interviews**](./Employee_Interviews.pdf)
 
 
 ## Incident Report ##
